@@ -9,3 +9,13 @@
 1. 系統監控儀表板
 2. 使用者活動儀表板
 3. 資料分析儀表板
+
+## Running in Codespaces
+To run this project in Codespaces, follow these steps:
+
+1. Open the repository in Codespaces.
+2. The Codespaces environment will automatically use the configuration in the `.devcontainer` directory.
+3. Once the Codespaces environment is ready, open a terminal.
+4. Run `npm install` to install the project dependencies.
+5. Run `ng serve` to start the development server.
+6. Open your browser and navigate to the provided URL to see the application running.
