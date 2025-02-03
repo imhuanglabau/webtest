@@ -1,6 +1,5 @@
 {
   "name": "webtest",
-  "dockerFile": "Dockerfile",
   "settings": {},
   "extensions": [
     "dbaeumer.vscode-eslint"
